@@ -1,4 +1,4 @@
-Locales['nl'] = {
+return {
   ['valid_purchase'] = 'aankoop bevestigen ?',
   ['yes'] = 'ja',
   ['no'] = 'nee',

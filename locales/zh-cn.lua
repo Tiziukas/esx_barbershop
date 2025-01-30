@@ -1,4 +1,4 @@
-Locales['zh-cn'] = {
+return {
   ['valid_purchase'] = '确认当前改变?',
   ['yes'] = '确认',
   ['no'] = '取消',

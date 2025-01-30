@@ -1,4 +1,4 @@
-Locales['hu'] = {
+return {
   ['valid_purchase'] = 'Biztosan kifizeted?',
   ['yes'] = 'Igen',
   ['no'] = 'Nem',

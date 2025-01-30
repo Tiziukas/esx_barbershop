@@ -1,4 +1,4 @@
-Locales['fi'] = {
+return {
   ['valid_purchase'] = 'varmista tämä ostos?',
   ['yes'] = 'kyllä',
   ['no'] = 'ei',

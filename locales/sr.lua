@@ -1,4 +1,4 @@
-Locales['sr'] = {
+return {
   ['valid_purchase'] = 'Potvrdite kupovinu?',
   ['yes'] = 'Da',
   ['no'] = 'Ne',
